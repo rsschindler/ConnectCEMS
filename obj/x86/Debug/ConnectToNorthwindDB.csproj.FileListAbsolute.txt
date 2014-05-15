@@ -1,0 +1,9 @@
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\bin\Debug\ConnectToNorthwindDB.exe
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\bin\Debug\ConnectToNorthwindDB.pdb
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.Properties.Resources.resources
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.csproj.GenerateResource.Cache
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.exe
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.pdb
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\bin\Debug\ConnectToNorthwindDB.exe.config
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.FormConnectToNorthwind.resources
+c:\users\rschindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.MediaBagScan.resources

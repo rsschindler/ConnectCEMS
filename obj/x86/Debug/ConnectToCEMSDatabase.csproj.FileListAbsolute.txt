@@ -1,0 +1,10 @@
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\bin\Debug\ConnectToNorthwindDB.exe.config
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\bin\Debug\ConnectToNorthwindDB.exe
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\bin\Debug\ConnectToNorthwindDB.pdb
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToCEMSDatabase.csproj.GenerateResource.Cache
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.exe
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToNorthwindDB.pdb
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToCEMSDatabase.MediaBagScan.resources
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToCEMSDatabase.Properties.Resources.resources
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToCEMSDatabase.FormConnectToCEMSDatabase.resources
+C:\Users\RSchindl\documents\visual studio 2010\Projects\ConnectToNorthwindDB\ConnectToNorthwindDB\obj\x86\Debug\ConnectToCEMSDatabase.MediaBagAdd.resources
